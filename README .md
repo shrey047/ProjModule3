@@ -1,4 +1,4 @@
-# Hello World
+# ERC20 SMART CONTRACTS
 
 This Solidity program is a simple "Hello World" program that demonstrates the basic syntax and functionality of the ERC20 contracts using  Solidity programming language. 
 
